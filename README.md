@@ -25,17 +25,28 @@
 ## 📌 Projetos em Destaque | Featured Projects
   
 
-- 🏛️ Portal da Regulação  
-  🇧🇷 Plataforma sobre procedimentos regulatórios.  
-  🇺🇸 Platform for regulatory procedures.  
+🏛️ **Portal da Regulação**  
+🇧🇷 Plataforma sobre procedimentos regulatórios.  
+🇺🇸 Platform for regulatory procedures.  
+🧩 **Principais tecnologias utilizadas / Main technologies used:**  
+Vue 3, TypeScript, Pinia, GraphQL, Strapi, Axios  
 
-  
-- 🏥 Patient Manager System  
-  🇧🇷 Sistema de gestão de pacientes, com integração com Google Calendar, geração de prontuários, relatórios e recibos.  
-  🇺🇸 Patient management system with Google Calendar integration, medical records, reports, and receipts generation.  
+---
 
-🇧🇷 Além destes, participei de outros projetos.  
-🇺🇸 In addition to these, I have also worked on several projects.  
+🏥 **Patient Manager System**  
+🇧🇷 Sistema de gestão de pacientes, com integração com Google Calendar, geração de prontuários, relatórios e recibos.  
+🇺🇸 Patient management system with Google Calendar integration, medical records, reports, and receipts generation.  
+🧩 **Principais tecnologias utilizadas / Main technologies used:**  
+Vue 3, TypeScript, Node.js, Express, MongoDB, Google Calendar API, JWT  
+
+---
+
+🎮 **Ranking.Games**  
+🇧🇷 Plataforma web full-stack para criação e compartilhamento de listas personalizadas de jogos (Top 5, Top 10), com sistema de ranking global baseado nas escolhas da comunidade. Os usuários podem descobrir os jogos mais populares, criar suas próprias listas e visualizar estatísticas em tempo real.  
+🇺🇸 Full-stack web platform for creating and sharing personalized game lists (Top 5, Top 10), featuring a global ranking system based on community choices. Users can discover popular games, create their own lists, and view real-time statistics.  
+🧩 **Principais tecnologias utilizadas / Main technologies used:**  
+React 19, TypeScript, Node.js, PostgreSQL, Prisma, GraphQL, Recharts  
+
 
 
 ---
