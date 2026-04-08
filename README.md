@@ -47,7 +47,16 @@ Vue 3, TypeScript, Node.js, Express, MongoDB, Google Calendar API, JWT
 🧩 **Principais tecnologias utilizadas / Main technologies used:**  
 React 19, TypeScript, Node.js, PostgreSQL, Prisma, GraphQL, Recharts  
 
+---
 
+📚 Plataforma Educativa Gamificada
+
+🇧🇷 Plataforma de aprendizado interativo baseada em gamificação, com sistema de níveis, conquistas (badges), progresso do usuário e recompensas. Inclui biblioteca de conteúdos, trilhas de aprendizado e mecânicas inspiradas em jogos para aumentar o engajamento.
+
+🇺🇸 Gamified learning platform featuring levels, achievements (badges), user progress tracking, and reward systems. Includes a content library, learning paths, and game-inspired mechanics to boost engagement.
+
+🧩 Principais tecnologias utilizadas / Main technologies used:
+Flutter, Firestore
 
 ---
 
